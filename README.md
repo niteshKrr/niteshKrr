@@ -1,10 +1,10 @@
 ### Namastey, I'm Nitesh Kumar. 🙏
 
 
-- 🔭 I’m currently diving deeper into web-socket and webRTC.
-- 🌱 I’m a full-stack web developer. 
+- 🔭 I’m currently diving deeper into web3.
+- 🌱 I’m a full-stack blockchain developer. 
 - 🤔 I’m willing to connect with more developers who are interested in technology and see it as a tool to change the world for better.
-- 💬 Ask me about C++, JavaScript, Python, Flutter, Next.Js, Express Js, Django, Blockchain, Android development, Web development, NFTs, and WEB3.
+- 💬 Ask me about Next.Js, Express Js, Hardhat, solidity, Ether Js, NFTs, Blockchain, WEB3, JavaScript, Web development, Python, Flutter,  Django, and  Android development.
 - 📫 How to reach me:  📧[LinkedIn- @Nitesh ](https://www.linkedin.com/in/nitesh-kumar-57b598204/) , 📧[Mail](mailto:nkumar35101@gmail.com)
 - 😄 Pronouns: He/Him
 
