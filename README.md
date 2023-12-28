@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently learning Langchain/ML and DSA.
 - 🌱 I’m a full-stack developer. 
-- 🤔 I’m willing to connect with more developers who are interested in technology and see it as a tool to change the world for the better.
-- 💬 Ask me about Next.Js, Express.Js, Node.js, JavaScript, Web development, Python, Flutter,  Django, and  Android development.
+- 🤔 I’m willing to connect with more developers who are interested in technology and see it as a tool to change the world for better.
+- 💬 Ask me about Next.Js, Express.Js, Node.js, JavaScript, Web development, Web3, Blockchain, Python, Flutter,  Django, and  Android development.
 - 📫 How to reach me:  📧[LinkedIn- @Nitesh ](https://www.linkedin.com/in/nitesh-kumar-57b598204/) , 📧[Mail](mailto:nkumar35101@gmail.com)
 - 😄 Pronouns: He/Him
 
